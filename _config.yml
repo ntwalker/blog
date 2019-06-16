@@ -4,6 +4,12 @@ url: "https://ntwalker.github.io"
 title: Nick Walker NLP Blog # site's title
 description: "A Blog About Natural Language Processing and Other Things" # used by search engines
 
+defaults:
+  - 
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: assets/img/triangle.png # seo tag
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
