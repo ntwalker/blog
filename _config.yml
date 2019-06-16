@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: Nick's NLP Blog # blog's title
   avatar: assets/img/triangle.svg
-  favicon: favicon-new.webp
+  favicon: Lambda.jpg
   gravatar: # Email MD5 hash
 
   # Header and footer text
