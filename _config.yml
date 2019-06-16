@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: "/blog"
+url: "https://ntwalker.github.io"
+title: Nick Walker NLP Blog # site's title
+description: "A Natural Language Processing (and other things) Blog" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -28,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "ntwalker"
   google_plus:
   instagram:
   keybase:
@@ -53,7 +53,7 @@ theme_settings:
     pinterest:
     pocket:
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
