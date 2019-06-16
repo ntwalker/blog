@@ -2,7 +2,7 @@
 baseurl: "/blog"
 url: "https://ntwalker.github.io"
 title: Nick Walker NLP Blog # site's title
-description: "A Natural Language Processing (and other things) Blog" # used by search engines
+description: "A Blog About Natural Language Processing and Other Things" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
