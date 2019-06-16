@@ -16,6 +16,7 @@ theme_settings:
   # Meta
   title: Nick's NLP Blog # blog's title
   avatar: assets/img/triangle.svg
+  color_image: /assets/img/lineart.png # In post when you set color
   favicon: assets/Lambda.jpg
   gravatar: # Email MD5 hash
 
